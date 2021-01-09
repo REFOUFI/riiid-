@@ -11,7 +11,7 @@ https://www.kaggle.com/c/riiid-test-answer-prediction
 this work is from our  first kaggle compettion , it's an lgbm model 
 we  also develped, an other approach using tranformers in pytorch 
 
-the fair challenge in RIIID COMPETION was to implent a good piplinde for the test data , wich require a lot of software engerring , with a hidden set of testing data 
+the fair challenge in RIIID COMPETETION was to implent a good piplinde for the test data , wich require a lot of software engerring , with a hidden set of testing data 
 
 
 during this competetion we  submitted more than 100 times , around half with lgbm models , and half with a pytorch transformers model
