@@ -20,7 +20,9 @@ during this competetion we  submitted more than 100 times , around half with lgb
 a lot of submmision scored errors , either the  ones with a valid output 
 
 
-the first notebook(lgbm) is the model developpemnt , implemnted ,trained and validated on  local machine (macboook )
+the first notebook(lgbm-COPY 1) is the model developpemnt , implemnted ,trained and validated on  local machine (macboook )
+
+lgbm copy2 is  just a copy more detailed and explained 
 
 second code is the pipeline for testing , implented directly on kaggle
 
