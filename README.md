@@ -25,7 +25,10 @@ the first notebook(lgbm) is the model developpemnt , implemnted ,trained and val
 second code is the pipeline for testing , implented directly on kaggle
 
 
-our score and ranking in this competetion doesn't reflect really the score of light lgbm ( our final score is based on novomber submiision ) ,before moving to a transformrers based approach 
+our score and ranking in this competetion doesn't reflect really the score of light lgbm ( our final score is based on novomber submiision ) ,before moving to a transformrers 
+
+
+Saint ++ is a transformers implemnted on pytorch based on Riid paper called SAINT , wich was an update of their previous work ( the main change in features used , positionel encoding , inputs in encoder block )
 
 
  vivement les prochaine competetions 
