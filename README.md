@@ -30,6 +30,8 @@ our score and ranking in this competetion doesn't reflect really the score of li
 
 Saint ++ is a transformers implemnted on pytorch based on Riid paper called SAINT , wich was an update of their previous work ( the main change in features used , positionel encoding , inputs in encoder block )
 
+for training we have used vast ai "https://vast.ai/" ,renting a machine with four gpu , each trainng session take more than 7 hours 
+
 
  vivement les prochaine competetions 
  
