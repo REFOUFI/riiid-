@@ -7,7 +7,7 @@ about the compettion :
 https://www.kaggle.com/c/riiid-test-answer-prediction
 
 
-this was our first competetion ever , either for my teammate and I 
+this was our first competetion ever , either for my teammate @ahmed3991 and I 
 
 this work is from our  first kaggle compettion , it's an lgbm model 
 
